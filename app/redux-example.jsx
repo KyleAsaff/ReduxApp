@@ -82,3 +82,4 @@ var action = {
 store.dispatch(action);
 
 console.log('name', store.getState());
+
